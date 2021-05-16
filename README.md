@@ -17,3 +17,19 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+
+What was done:
+Cleaned up the HTML to allow all links at the top. Click to the right areas.
+Allowed website to be accessible to those with disabilities and is optimized for all search engines.
+Cleared up HTML and CSS so that it is organized in a clear and conscise manner.
+The application could be used efficently when tested.
+
+
+Screenshots provided:
+
+
+Website: https://darkholyphoenix.github.io/Challenge-1/
+
+Repository Location: https://github.com/darkholyphoenix/Challenge-1
+
+
