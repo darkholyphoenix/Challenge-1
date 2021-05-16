@@ -26,7 +26,7 @@ The application could be used efficently when tested.
 
 
 Screenshots provided:
-
+![Screenshot (6)](https://user-images.githubusercontent.com/47751469/118383030-13795880-b5c0-11eb-9bfa-0a390afb6f85.png)
 
 Website: https://darkholyphoenix.github.io/Challenge-1/
 
